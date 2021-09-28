@@ -5,64 +5,31 @@ Articles
 
 <ul class="list" style="list-style-type: none;    margin: 5;    padding: 5;    display: grid;">
 <li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
-	<a href="https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/">
-	<img style="width:60px; float:left; padding: 5 15 5 5;" src="https://stolee.dev/img/snapshots.png" />
-	</a>
 	<div class="link">
 	<a href="https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/">
-		Commits are snapshots, not diffs</a>
+		Commits are snapshots, not diffs</a>.
+		<i>GitHub Blog</i>, 2020
 	</div>
-	<p>
-	<i>GitHub Blog</i>, 2020
-	</p>
 </li>
 <li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
 	<a href="https://devblogs.microsoft.com/devops/introducing-scalar/">
-	<img style="width:60px; float:left; padding: 5 15 5 5;" src="https://stolee.dev/img/scalar.png" />
-	</a>
-	<div class="link">
-	<a href="https://devblogs.microsoft.com/devops/introducing-scalar/">
-		Introducing Scalar: Git at scale for everyone</a>
-	</div>
-	<p>
+		Introducing Scalar: Git at scale for everyone</a>.
 	<i>Azure DevOps Blog</i>, 2020
-	</p>
 </li>
 <li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
 	<a href="https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/">
-	<img style="width:60px; float:left; padding: 5 15 5 5;"  src="https://stolee.dev/img/sparse-checkout.png" />
-	</a>
-	<div class="link">
-	<a href="https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/">
-		Bring your monorepo down to size with sparse-checkout</a>
-	</div>
-	<p>
+		Bring your monorepo down to size with sparse-checkout</a>.
 	<i>GitHub Blog</i>, 2020
-	</p>
 </li>
 <li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
 	<a href="https://devblogs.microsoft.com/devops/super-charging-the-git-commit-graph-iv-bloom-filters/">
-	<img style="width:60px; float:left; padding: 5 15 5 5;"  src="https://stolee.dev/img/bloom.png" />
-	</a>
-	<div class="link">
-	<a href="https://devblogs.microsoft.com/devops/super-charging-the-git-commit-graph-iv-bloom-filters/">
-		Supercharging the Git Commit Graph IV: Bloom Filters</a>
-	</div>
-	<p>
+		Supercharging the Git Commit Graph IV: Bloom Filters</a>.
 	<i>Azure DevOps Blog</i>, 2018
-	</p>
 </li>
 <li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
 	<a href="https://devblogs.microsoft.com/devops/supercharging-the-git-commit-graph/">
-	<img style="width:60px; float:left; padding: 5 15 5 5;"  src="https://stolee.dev/img/graph.png" />
-	</a>
-	<div class="link">
-	<a href="https://devblogs.microsoft.com/devops/supercharging-the-git-commit-graph/">
-		Supercharging the Git Commit Graph</a>
-	</div>
-	<p>
+		Supercharging the Git Commit Graph</a>.
 	<i>Azure DevOps Blog</i>, 2018
-	</p>
 </li>
 </ul>
 
