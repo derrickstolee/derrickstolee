@@ -6,6 +6,13 @@ Articles
 <ul class="list" style="list-style-type: none;    margin: 5;    padding: 5;    display: grid;">
 <li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
 	<div class="link">
+	<a href="https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/">
+		Make your monorepo feel small with Git's sparse index</a>.
+		<i>GitHub Blog</i>, 2021
+	</div>
+</li>
+<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+	<div class="link">
 	<a href="https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/">
 		Commits are snapshots, not diffs</a>.
 		<i>GitHub Blog</i>, 2020
