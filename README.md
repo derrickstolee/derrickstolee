@@ -88,6 +88,14 @@ Presentations
 <ul class="list">
 <li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
 	<div class="link">
+	<a href="https://git-merge.com/">Git Internals: A Database Perspective</a> [<a href="https://stolee.dev/docs/git-merge-2022.pdf">Slides</a>] [<a href="https://www.youtube.com/watch?v=YdstUWcg5j4">Git Merge Video</a>] [<a href="https://www.youtube.com/watch?v=6b6iOPvspPs">GitKon Video</a>]
+	</div>
+	<p>
+	How does Git store your data, and how does that relate to other database concepts? <i>Git Merge, September 2022</i> and <i>GitKon, October 2022</i>.
+	</p>
+</li>
+<li style="    padding: 2;    margin: 5;    display: block;    position: relative;    width: 100%;    height: fit-content;">
+	<div class="link">
 	<a href="https://githubuniverse.com/Optimize-your-monorepo-experience/">Optimize your monorepo experience</a> [<a href="https://stolee.dev/docs/universe-2020.pdf">Slides</a>] [<a href="https://www.youtube.com/watch?v=RcqLV1lU408&feature=emb_logo">Video</a>]
 	</div>
 	<p>
