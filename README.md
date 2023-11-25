@@ -1,4 +1,4 @@
-`@derrickstolee` is a Principal Software Engineer at GitHub, with a focus on Git and its performance.
+`@derrickstolee` used to be a mathematician, now he works in tech.
 
 Articles
 --------
